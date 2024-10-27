@@ -3,7 +3,7 @@
 Desenvolvedor Full Stack com experiência em desenvolvimento web e integrações de sistemas. Apaixonado por tecnologia e sempre buscando aperfeiçoar habilidades e aprender novas ferramentas.
 
 ## 🏢 Empresa Atual
-- **Tech Solutions**
+- **Ascensus Group**
 
 ## 🛠️ Habilidades Técnicas (Hard Skills)
 
