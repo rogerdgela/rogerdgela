@@ -1,4 +1,20 @@
 ## Olá me chamo Rogerio 👋
+# João Silva
+
+Desenvolvedor Full Stack com experiência em desenvolvimento web e integrações de sistemas. Apaixonado por tecnologia e sempre buscando aperfeiçoar habilidades e aprender novas ferramentas.
+
+## 🏢 Empresa Atual
+- **Tech Solutions**
+
+## 🛠️ Habilidades Técnicas (Hard Skills)
+
+- **Back-End:** PHP, Magento (1 e 2), SQL, MySQL
+- **Front-End:** HTML5, CSS3, JavaScript, ReactJS
+- **DevOps:** Docker, Linux
+
+---
+
+Estou sempre em busca de novos desafios e oportunidades para evoluir na minha carreira e contribuir com soluções inovadoras.
 
 <!--
 **rogerdgela/rogerdgela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
