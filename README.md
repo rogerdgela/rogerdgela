@@ -7,17 +7,25 @@ Desenvolvedor Full Stack com experiência em desenvolvimento web e integrações
 
 ## 🛠️ Habilidades Técnicas (Hard Skills)
 
-| Tecnologia       | Logotipo |
-| ---------------- | -------- |
-| **PHP**          | <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" height="35"> |
-| **MySQL**        | <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35"> |
-| **ReactJS**      | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="35"> |
-| **HTML5**        | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="35"> |
-| **CSS3**         | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="35"> |
-| **Magento 1 & 2**| <img src="https://w7.pngwing.com/pngs/847/621/png-transparent-magento-web-development-e-commerce-business-logo-magneto-angle-web-design-text-thumbnail.png" height="35"> |
-| **SQL**          | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="35"> |
-| **Docker**       | <img src="https://icon2.cleanpng.com/20180825/jab/kisspng-using-docker-developing-and-deploying-software-wi-poznaj-aplikacjdocker-drupal-w-15-minut-docke-1713948229081.webp" height="35"> |
-| **Linux**        | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="35"> |
+**PHP** <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" height="15">
+
+**MySQL** <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="15">
+
+**Tailwind** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="15">
+
+**ReactJS** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="15">
+
+**HTML5** <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="15">
+
+**CSS3** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="15">
+
+**Magento 1 & 2** <img src="https://w7.pngwing.com/pngs/847/621/png-transparent-magento-web-development-e-commerce-business-logo-magneto-angle-web-design-text-thumbnail.png" height="15">
+
+**SQL** <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="15">
+
+**Docker** <img src="https://icon2.cleanpng.com/20180825/jab/kisspng-using-docker-developing-and-deploying-software-wi-poznaj-aplikacjdocker-drupal-w-15-minut-docke-1713948229081.webp" height="15">
+
+**Linux** <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="15">
 
 ---
 
