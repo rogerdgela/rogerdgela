@@ -13,7 +13,7 @@ Desenvolvedor Full Stack com experiência em desenvolvimento web e integrações
 
 **Magento 1 & 2** <img src="https://w7.pngwing.com/pngs/847/621/png-transparent-magento-web-development-e-commerce-business-logo-magneto-angle-web-design-text-thumbnail.png" height="15">
 
-**Docker** <img src="https://icon2.cleanpng.com/20180825/jab/kisspng-using-docker-developing-and-deploying-software-wi-poznaj-aplikacjdocker-drupal-w-15-minut-docke-1713948229081.webp" height="15"> | **Linux** <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="15">
+**Docker** <img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/2.0.0/1748459272971/Microsoft.VisualStudio.Services.Icons.Default" height="20"> | **Linux** <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="20">
 
 ---
 
